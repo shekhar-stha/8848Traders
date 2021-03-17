@@ -307,6 +307,9 @@ color:#5cdb95
         content: attr(data-src-800px, url);
     }
 
+    img { max-width: 100%; height: auto; }
+
+
   #title{
     text-align: center;
   }
