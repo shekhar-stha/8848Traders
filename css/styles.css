@@ -289,8 +289,14 @@ padding:7% 15%;
 .footer-icon:hover{
 color:#5cdb95
 }
+/*responsive*/
 
+@media (max-width: 1028px) {
+  .forex-image{
+    margin-left: 0rem;
+    position: static;
 
+  }
 
 @media (min-width: 640px) { body {font-size:1rem;} }
 @media (min-width:960px) { body {font-size:1.2rem;} }
